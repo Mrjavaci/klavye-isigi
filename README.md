@@ -1,6 +1,12 @@
 # Sese Göre Klavye Işığı ayarlamak
 
+Macbook change keyboard light with sound volume
+
 ** sadece macbooklar için geçerlidir **
+
+Örnek Video 
+
+https://www.youtube.com/watch?v=AHglTZL5YrA
 
 ### kurulum;
 
